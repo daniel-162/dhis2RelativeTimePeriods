@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daniel-162/dhis2RelativeTimePeriods/static/css/main.067f0f9c.chunk.css",
+    "main.js": "/daniel-162/dhis2RelativeTimePeriods/static/js/main.3bf4591f.chunk.js",
+    "main.js.map": "/daniel-162/dhis2RelativeTimePeriods/static/js/main.3bf4591f.chunk.js.map",
+    "runtime-main.js": "/daniel-162/dhis2RelativeTimePeriods/static/js/runtime-main.858562ab.js",
+    "runtime-main.js.map": "/daniel-162/dhis2RelativeTimePeriods/static/js/runtime-main.858562ab.js.map",
+    "static/js/2.6824a3d4.chunk.js": "/daniel-162/dhis2RelativeTimePeriods/static/js/2.6824a3d4.chunk.js",
+    "static/js/2.6824a3d4.chunk.js.map": "/daniel-162/dhis2RelativeTimePeriods/static/js/2.6824a3d4.chunk.js.map",
+    "index.html": "/daniel-162/dhis2RelativeTimePeriods/index.html",
+    "precache-manifest.27ad84cc47295c27e23c478999915bb7.js": "/daniel-162/dhis2RelativeTimePeriods/precache-manifest.27ad84cc47295c27e23c478999915bb7.js",
+    "service-worker.js": "/daniel-162/dhis2RelativeTimePeriods/service-worker.js",
+    "static/css/main.067f0f9c.chunk.css.map": "/daniel-162/dhis2RelativeTimePeriods/static/css/main.067f0f9c.chunk.css.map",
+    "static/js/2.6824a3d4.chunk.js.LICENSE": "/daniel-162/dhis2RelativeTimePeriods/static/js/2.6824a3d4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.858562ab.js",
+    "static/js/2.6824a3d4.chunk.js",
+    "static/css/main.067f0f9c.chunk.css",
+    "static/js/main.3bf4591f.chunk.js"
+  ]
+}
